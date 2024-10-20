@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://yoshizumi.tech/posts/admin-kisekae/</loc>
     <lastmod>2024-10-20T15:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://yoshizumi.tech/posts/</loc>
     <lastmod>2024-10-20T15:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/admin-kisekae/</loc>
+    <loc>https://yoshizumi.tech/</loc>
     <lastmod>2024-10-20T15:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yoshizumi.tech/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://yoshizumi.tech/tags/</loc>
   </url>
 </urlset>

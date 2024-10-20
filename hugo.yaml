@@ -1,4 +1,13 @@
-baseURL: https://example.org/
-languageCode: jp
-title: yoshizumi.tech
-theme: ["PaperMod"]
+baseURL: "https://yoshizumi.tech/"
+languageCode: "jp"
+title: "yoshizumi.tech"
+theme:
+  - "PaperMod"
+
+# 新しい設定
+params:
+  social:
+    - name: "twitter"
+      url: "https://twitter.com/yourprofile"
+    - name: "github"
+      url: "https://github.com/yourprofile"
