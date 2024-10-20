@@ -1,41 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on yoshizumi.tech</title>
-    <link>https://yoshizumi.tech/posts/</link>
-    <description>Recent content in Posts on yoshizumi.tech</description>
-    <generator>Hugo -- 0.136.2</generator>
-    <language>jp</language>
-    <lastBuildDate>Sun, 20 Oct 2024 15:00:00 +0900</lastBuildDate>
-    <atom:link href="https://yoshizumi.tech/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【ログイン画面を推しで染めよう】WordPressプラグイン「着せ替えログイン」を作りました</title>
-      <link>https://yoshizumi.tech/posts/admin-kisekae/</link>
-      <pubDate>Sun, 20 Oct 2024 15:00:00 +0900</pubDate>
-      <guid>https://yoshizumi.tech/posts/admin-kisekae/</guid>
-      <description>&lt;p&gt;WordPressのログイン画面ってなんかダサいなあ、つまんないなあと思っているそこのあなたへ、ログイン画面をあなたの好みにカスタマイズできるプラグインを開発しました。題して「&lt;strong&gt;着せ替えログイン&lt;/strong&gt;」！&lt;/p&gt;
-&lt;p&gt;このプラグインを使って、自分の&lt;strong&gt;推し&lt;/strong&gt;で画面を彩れば、毎日のしんどいブログ運営やサイト制作が楽しみに変わるかもしれません。&lt;/p&gt;
-&lt;p&gt;たとえば、好きなアニメやゲームのキャラやペットの写真など、あなたが好きな画像をログイン画面に設定するだけで、一気に華やかになりますよ！&lt;/p&gt;
-&lt;h3 id=&#34;殺風景なwordpressの画面が&#34;&gt;殺風景なWordPressの画面が&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://yoshizumi.tech/images/before-login.png&#34; alt=&#34;before-image&#34;  /&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;この通りちょっと気分上がりませんか&#34;&gt;この通り！ちょっと気分上がりませんか？？&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://yoshizumi.tech/images/after-login.png&#34; alt=&#34;after-image&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;使い方はとっても簡単です&#34;&gt;使い方はとっても簡単です&lt;/h2&gt;
-&lt;p&gt;各設定をみなさんのお好みに設定していくだけでOKの直感的でシンプルなプラグインです。
-&lt;img loading=&#34;lazy&#34; src=&#34;https://yoshizumi.tech/images/settings.png&#34; alt=&#34;settings&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;商品概要&#34;&gt;商品概要&lt;/h2&gt;
-&lt;p&gt;価格：2,000円（買い切り）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;プラグインアップデート対応（サブスク版リリースまでの期間）&lt;/li&gt;
-&lt;li&gt;使い方のサポート付き&lt;/li&gt;
-&lt;li&gt;複数サイト使用可&lt;/li&gt;
-&lt;li&gt;商用利用可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;【ご利用に際しての注意】&lt;br&gt;
-本プラグインでアニメやゲームなどの画像・イラストを使用する場合は、著作権法に基づき、許可されたものだけを使用してください。&lt;!-- raw HTML omitted --&gt;本プラグインでの画像・イラスト使用においてのトラブルについて開発者は責任を負いかねますのでご了承ください。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on yoshizumi.tech</title><link>https://yoshizumi.tech/posts/</link><description>Recent content in Posts on yoshizumi.tech</description><generator>Hugo -- 0.136.2</generator><language>jp</language><lastBuildDate>Sun, 20 Oct 2024 15:00:00 +0900</lastBuildDate><atom:link href="https://yoshizumi.tech/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>【ログイン画面を推しで染めよう】WordPressプラグイン「着せ替えログイン」を作りました</title><link>https://yoshizumi.tech/posts/admin-kisekae/</link><pubDate>Sun, 20 Oct 2024 15:00:00 +0900</pubDate><guid>https://yoshizumi.tech/posts/admin-kisekae/</guid><description>&lt;p>WordPressのログイン画面ってなんかダサいなあ、つまんないなあと思っているそこのあなたへ、ログイン画面をあなたの好みにカスタマイズできるプラグインを開発しました。題して「&lt;strong>着せ替えログイン&lt;/strong>」！&lt;/p>
+&lt;p>このプラグインを使って、自分の&lt;strong>推し&lt;/strong>で画面を彩れば、毎日のしんどいブログ運営やサイト制作が楽しみに変わるかもしれません。&lt;/p>
+&lt;p>たとえば、好きなアニメやゲームのキャラやペットの写真など、あなたが好きな画像をログイン画面に設定するだけで、一気に華やかになりますよ！&lt;/p>
+&lt;h3 id="殺風景なwordpressの画面が">殺風景なWordPressの画面が&lt;/h3>
+&lt;p>&lt;img loading="lazy" src="https://yoshizumi.tech/images/before-login.png" alt="before-image" />
+&lt;/p>
+&lt;h3 id="この通りちょっと気分上がりませんか">この通り！ちょっと気分上がりませんか？？&lt;/h3>
+&lt;p>&lt;img loading="lazy" src="https://yoshizumi.tech/images/after-login.png" alt="after-image" />
+&lt;/p>
+&lt;h2 id="使い方はとっても簡単です">使い方はとっても簡単です&lt;/h2>
+&lt;p>各設定をみなさんのお好みに設定していくだけでOKの直感的でシンプルなプラグインです。
+&lt;img loading="lazy" src="https://yoshizumi.tech/images/settings.png" alt="settings" />
+&lt;/p>
+&lt;h2 id="商品概要">商品概要&lt;/h2>
+&lt;p>価格：2,000円（買い切り）&lt;/p>
+&lt;ul>
+&lt;li>プラグインアップデート対応（サブスク版リリースまでの期間）&lt;/li>
+&lt;li>使い方のサポート付き&lt;/li>
+&lt;li>複数サイト使用可&lt;/li>
+&lt;li>商用利用可&lt;/li>
+&lt;/ul>
+&lt;p>【ご利用に際しての注意】&lt;br>
+本プラグインでアニメやゲームなどの画像・イラストを使用する場合は、著作権法に基づき、許可されたものだけを使用してください。&lt;!-- raw HTML omitted -->本プラグインでの画像・イラスト使用においてのトラブルについて開発者は責任を負いかねますのでご了承ください。&lt;/p></description></item></channel></rss>
