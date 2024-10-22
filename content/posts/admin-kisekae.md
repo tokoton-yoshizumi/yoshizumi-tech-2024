@@ -14,7 +14,7 @@ WordPressのログイン画面ってなんかダサいなあ、つまんない�
 ### 殺風景なWordPressの画面が
 ![before-image]( /images/before-login.png )
 
-### この通り！ちょっと気分上がりませんか？？
+### この通り！ちょっと気分上がりますよね？！
 ![after-image]( /images/after-login.png )
 
 
