@@ -19,7 +19,7 @@
 &lt;h3 id=&#34;殺風景なwordpressの画面が&#34;&gt;殺風景なWordPressの画面が&lt;/h3&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/before-login.png&#34; alt=&#34;before-image&#34;  /&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;この通りちょっと気分上がりませんか&#34;&gt;この通り！ちょっと気分上がりませんか？？&lt;/h3&gt;
+&lt;h3 id=&#34;この通りちょっと気分上がりますよね&#34;&gt;この通り！ちょっと気分上がりますよね？！&lt;/h3&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/after-login.png&#34; alt=&#34;after-image&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;使い方はとっても簡単です&#34;&gt;使い方はとっても簡単です&lt;/h2&gt;
@@ -34,8 +34,9 @@
 &lt;li&gt;複数サイト使用可&lt;/li&gt;
 &lt;li&gt;商用利用可&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://buy.stripe.com/00gcNSfPE2k0anC6pj&#34; target=&#34;_blank&#34; class=&#34;btn&#34;&gt;ご購入はこちら&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;【ご利用に際しての注意】&lt;br&gt;
-本プラグインでアニメやゲームなどの画像・イラストを使用する場合は、著作権法に基づき、許可されたものだけを使用してください。&lt;!-- raw HTML omitted --&gt;本プラグインでの画像・イラスト使用においてのトラブルについて開発者は責任を負いかねますのでご了承ください。&lt;/p&gt;</description>
+本プラグインでアニメやゲームなどの画像・イラストを使用する場合は、著作権法に基づき、許可されたものだけを使用してください。&lt;br&gt;本プラグインでの画像・イラスト使用においてのトラブルについて開発者は責任を負いかねますのでご了承ください。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

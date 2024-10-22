@@ -11,3 +11,8 @@ params:
       url: "https://twitter.com/yourprofile"
     - name: "github"
       url: "https://github.com/yourprofile"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
