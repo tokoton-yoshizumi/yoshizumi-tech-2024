@@ -3,6 +3,7 @@ title: "【ログイン画面を推しで染めよう】WordPressプラグイン
 date: 2024-10-20T15:00:00+09:00
 draft: false
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XagYOGiFhqI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 WordPressのログイン画面ってなんかダサいなあ、つまんないなあと思っているそこのあなたへ、ログイン画面をあなたの好みにカスタマイズできるプラグインを開発しました。題して「**着せ替えログイン**」！
 

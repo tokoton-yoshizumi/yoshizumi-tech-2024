@@ -13,6 +13,10 @@
     background-color: #0056b3;
 }
 
+h1.post-title {
+    font-size: 32px;
+}
+
 .post-content h2 {
     margin: 40px auto 20px;
     font-size: 28px;
