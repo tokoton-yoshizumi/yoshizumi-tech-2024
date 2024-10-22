@@ -6,6 +6,7 @@ theme:
 
 # 新しい設定
 params:
+  customCSS: ["css/custom.css"]
   social:
     - name: "twitter"
       url: "https://twitter.com/yourprofile"
