@@ -12,3 +12,8 @@
 .btn:hover {
     background-color: #0056b3;
 }
+
+.post-content h2 {
+    margin: 40px auto 20px;
+    font-size: 28px;
+}
