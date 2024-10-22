@@ -16,3 +16,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  customCSS: ["css/custom.css"]
